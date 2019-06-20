@@ -1,0 +1,2 @@
+# ubuntuerrors
+Errors in Ubuntu
